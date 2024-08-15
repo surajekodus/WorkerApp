@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Astrologer",
+    "Worker_Role": "Astrologer",
+    "icon": "https://engineering.fb.com/wp-content/uploads/2016/04/yearinreview.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Makeup",
+    "Worker_Role": "Makeup",
+    "icon": "https://engineering.fb.com/wp-content/uploads/2016/04/yearinreview.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Assistant",
+    "Worker_Role": "Assistant",
+    "icon": "https://engineering.fb.com/wp-content/uploads/2016/04/yearinreview.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mehendi",
+    "Worker_Role": "Mehendi",
+    "icon": "https://engineering.fb.com/wp-content/uploads/2016/04/yearinreview.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Photography",
+    "Worker_Role": "Photography",
+    "icon": "https://engineering.fb.com/wp-content/uploads/2016/04/yearinreview.jpg"
+  }
+]
